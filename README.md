@@ -4,7 +4,6 @@ I am a fullstack software engineer from Rostock.
 - 🔭 Working as a technical teamlead on varying projects mainly using Angular and Nodejs
 - 🌱 Constantly learning and upgrading my skills in different fields
 - 👨‍🎓 Currently studying master of business informatics on the side
-<br>
 
 ## Connect with me
 
