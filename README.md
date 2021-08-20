@@ -1,5 +1,5 @@
 ### Nice to meet you! 👋
-I am a fullstack software engineer from Rostock.
+I am a fullstack software engineer and technical team lead from the beautiful Rostock.
 
 - 🔭 Working as a technical teamlead on varying projects mainly using Angular and Nodejs
 - 🌱 Constantly learning and upgrading my skills in different fields
