@@ -3,7 +3,7 @@ I am a fullstack software engineer and technical team lead from the beautiful Ro
 
 - 🔭 Working as a technical teamlead on varying projects mainly using Angular and Nodejs
 - 🌱 Constantly learning and upgrading my skills in different fields
-- 👨‍🎓 Currently studying master of business informatics on the side
+- 👨‍🎓 Currently doing my masters of business informatics on the side at Fernuniversität Hagen
 
 ## Connect with me
 
