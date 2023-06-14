@@ -1,9 +1,8 @@
 ### Nice to meet you! 👋
-I am a fullstack software engineer and technical team lead from the beautiful Rostock.
+I am working as solution architect within the SAP BTP nodejs stack.
 
 - 🔭 Working as a technical teamlead on varying projects mainly using Angular and Nodejs
 - 🌱 Constantly learning and upgrading my skills in different fields
-- 👨‍🎓 Currently doing my masters of business informatics on the side at Fernuniversität Hagen
 
 ## Connect with me
 
